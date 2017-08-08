@@ -1,0 +1,11 @@
+size (400,400);
+fill (#27BFE3,80);
+ellipse (200,110,200,200);
+fill (#57E342,80);
+ellipse (120,200,200,200);
+fill (#E8131A,80);
+ellipse (260,200,200,200);
+fill (#000000);
+text ("Musical",175,100);
+text ("Funny",100,205);
+text ("Smart",260,200);
